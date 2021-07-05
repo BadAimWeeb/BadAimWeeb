@@ -1,9 +1,13 @@
 <div align="center">
   <h3>Hi there 👋</h3>
   <ul align="left">
-    <h4>Resources that I made:</h4>
+    <h4>Resources that I made/developed:</h4>
     <li>An customizable Facebook/Discord chatbot, <a href="https://github.com/c3cbot/c3c-0x">c3cbot</a> (dropped)</li>
     <li>... nothing else</li>
+  </ul>
+  <ul align="left">
+    <h4>Resources that I'm currently making/developing:</h4>
+    <li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
   </ul>
   <hr>
   <a href="https://github.com/anuraghazra/github-readme-stats">
