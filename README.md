@@ -8,6 +8,7 @@
   <ul align="left">
     <h4>Resources that I'm currently making/developing:</h4>
     <li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
+    <li>Facebook self-bot interface? <a href="https://github.com/BadAimWeeb/fbself-m">M version [WIP]</a> | <a href="https://github.com/BadAimWeeb/fbself-w">W version [soon]</a></li>
   </ul>
   <hr>
   <a href="https://github.com/anuraghazra/github-readme-stats">
