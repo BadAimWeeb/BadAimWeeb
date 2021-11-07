@@ -7,8 +7,10 @@
   </ul>
   <ul align="left">
     <h4>Resources that I'm currently making/developing:</h4>
-    <li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
-    <li><a href="https://github.com/BadAimWeeb/facebook-self">Facebook self-bot interface? [WIP]</a></li>
+    <li>Managing IPFS/BitTorrent files on the server. <a href="https://github.com/BadAimWeeb/file-sharing-manager">Repository</a></li>
+    <li>NOCOM_BOT, successor of c3cbot. Can be used as framework for other kind of bots. <a href="https://github.com/NOCOM-BOT">Orgs</a></li>
+    <!--<li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
+    <li><a href="https://github.com/BadAimWeeb/facebook-self">Facebook self-bot interface? [WIP]</a></li>-->
   </ul>
   <hr>
   <a href="https://github.com/anuraghazra/github-readme-stats">
