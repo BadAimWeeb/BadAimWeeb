@@ -7,7 +7,7 @@
   <ul align="left">
     <h4>Resources that I'm currently making/developing:</h4>
     <li>Managing IPFS/BitTorrent files on the server. <a href="https://github.com/BadAimWeeb/file-sharing-manager">Repository</a> (temporary dead)</li>
-    <li>NOCOM_BOT, successor of c3cbot. Can be used as framework for other kind of bots. <a href="https://github.com/NOCOM-BOT">Orgs</a></li>
+    <li>NOCOM_BOT, intended to be the kernel of the successor of c3cbot. Powerful, highly customizable. <a href="https://github.com/NOCOM-BOT">Org</a></li>
     <!--<li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
     <li><a href="https://github.com/BadAimWeeb/facebook-self">Facebook self-bot interface? [WIP]</a></li>-->
   </ul>
@@ -19,7 +19,8 @@
       <img src="https://github-readme-stats.vercel.app/api//top-langs?username=BadAimWeeb&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
   </a><br>
   <br>
-  <b>2022 Target: Filling the contribution table green (at least one commit everyday)</b>
+  <b>2022 Target: Filling the contribution table green (at least one commit everyday)</b><br>
+  6/365 - 1.64% done
 </div>
 
 <!--
