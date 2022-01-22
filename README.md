@@ -19,8 +19,7 @@
       <img src="https://github-readme-stats.vercel.app/api//top-langs?username=BadAimWeeb&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
   </a><br>
   <br>
-  <b>2022 Target: Filling the contribution table green (at least one commit everyday)</b><br>
-  20/365 - 4.66% done (6F)
+  <b>2022 Target: ~Filling the contribution table green (at least one commit everyday)~ screwed up</b><br>
 </div>
 
 <!--
