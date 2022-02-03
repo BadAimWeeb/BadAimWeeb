@@ -27,6 +27,7 @@
     <li>Discord: BadAimWeeb#3820</li>
     <li>Matrix: @badaimweeb:matrix.org</li>
     <li>Telegram: @BadAimWeeb</li>
+    <li><a href="https://twitter.com/BadAimWeeb">Twitter: @BadAimWeeb</a></li>
   </ul>
 </div>
 
