@@ -6,7 +6,8 @@
   </ul>
   <ul align="left">
     <h4>Resources that I'm currently making/developing:</h4>
-    <li>Managing IPFS/BitTorrent files on the server. <a href="https://github.com/BadAimWeeb/file-sharing-manager">Repository</a> (temporary dead)</li>
+    <li>DUWallet - the universal wallet, supporting a lot of cryptocurrency. <a href="https://github.com/BadAimWeeb/duwallet">Repository</a> (⚠️ EXPERIMENTAL ⚠️)</li>
+    <!--<li>Managing IPFS/BitTorrent files on the server. <a href="https://github.com/BadAimWeeb/file-sharing-manager">Repository</a> (temporary dead)</li>-->
     <li>NOCOM_BOT, intended to be the kernel of the successor of c3cbot. Powerful, highly customizable. <a href="https://github.com/NOCOM-BOT">Org</a></li>
     <!--<li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
     <li><a href="https://github.com/BadAimWeeb/facebook-self">Facebook self-bot interface? [WIP]</a></li>-->
