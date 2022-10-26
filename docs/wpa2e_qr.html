@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WPA2-Enterprise Wi-Fi QR Code Generator - BadAimWeeb's Utilities</title>
+</head>
+<body>
+    Wi-Fi name: <input type="text" id="ssid"><br />
+    Username: <input type="text" id="username"><br />
+    Password: <input type="password" id="password"><br />
+    <button onclick="generate()">Generate</button><br />
+    <img id="qr" />
+
+    <script>
+        function generate() {
+            var ssid = document.getElementById("ssid").value;
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            var qr = document.getElementById("qr");
+            let qrData = `WIFI:T:WPA2-EAP;S:${ssid};E:PEAP;PH2:MSCHAPV2;A:;I:${username};P:${password};;`;
+
+            let qrD = encodeURIComponent(qrData);
+            qr.src = `https://zxing.org/w/chart?cht=qr&chs=350x350&chld=L&choe=UTF-8&chl=${qrD}`;
+        }
+    </script>
+</body>
+</html>
