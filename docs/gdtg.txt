@@ -27,8 +27,9 @@ Phí (áp dụng từ 19/01/2023): Tính theo giá trị giao dịch
     - Trên 1m5: 15k
     
 Giới hạn:
-    - Chỉ nhận MM liên quan Roblox, VPS*, Crypto trong trường hợp cần kiểm chứng, còn lại có thể GD hold tiền
-    *: (đối với VPS chỉ đảm bảo xác nhận thông tin ban đầu, không nhận đảm bảo trong quá trình sử dụng)
+    - Chỉ nhận MM liên quan Roblox*, VPS**, Crypto trong trường hợp cần kiểm chứng, còn lại có thể GD hold tiền (không xử lý tranh chấp!)
+    *: Giao dịch mua bán acc vui lòng quay video trước khi nhận acc và quá trình đăng nhập!
+    **: (đối với VPS chỉ đảm bảo xác nhận thông tin ban đầu, không nhận đảm bảo trong quá trình sử dụng)
 
 Alert: Hủy ngang kèo mất phí middleman
 Bank xong chụp bill gửi vào ticket/chat group chờ "Đã nhận", ✅
