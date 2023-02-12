@@ -27,8 +27,8 @@
   <br>
   <ul align="left">
     <h4>Where you can find me:</h4>
-    <li><a href="https://fb.me/badaimweeb.0">Facebook: badaimweeb.0</a></li>
-    <li>Discord: BadAimWeeb#3820</li>
+    <li><a href="https://fb.me/badaimweeb">Facebook: badaimweeb</a></li>
+    <li>Discord: BadAimWeeb#0727</li>
     <li>Matrix: @badaimweeb:matrix.org</li>
     <li>Telegram: @BadAimWeeb</li>
     <li><a href="https://twitter.com/BadAimWeeb">Twitter: @BadAimWeeb</a></li>
