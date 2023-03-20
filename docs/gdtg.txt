@@ -13,24 +13,36 @@ TK giao dịch:
     - CAKE: 0338083917
     - Sacombank: 060295739005
     - Viettel Money: 0862875949
-    - Vietinbank: 105877683913
     - TSR: badaimweeb
     - GT1s: badaimweeb
     - ZaloPay: 0862875949
     - CardVIP: cardvip@badaimweeb.me
+    
+TK giao dịch đã đưa vào sử dụng cho mục đích khác (vui lòng không chuyển vào, đưa vào đây chỉ nhằm mục đích kiểm soát):
+    - Vietinbank: 105877683913
+    - MBBank: 727000727
 
 Tên: LE QUANG LAM
 
-Phí (áp dụng từ 19/01/2023): Tính theo giá trị giao dịch
-    - Dưới 200k: 3k
-    - Từ 200k đến dưới 1m: 5k
-    - Từ 1m đến dưới 1m5: 10k
-    - Trên 1m5: 15k
+Phí GDTG (áp dụng từ 21/03/2023): Tính theo giá trị giao dịch
+    - Dưới 100k: 5k
+    - Từ 100k đến 1m: 10k
+    - Từ 1m đến 1m5: 15k
+    - Từ 1m5 đến 3m: 20k
+    - Từ 3m đến 6m: 25k
+    - Từ 6m đến 10m: 30k
+    - Trên 10m: 40k
     
-Giới hạn:
-    - Chỉ nhận MM liên quan Roblox*, VPS**, Crypto trong trường hợp cần kiểm chứng, còn lại có thể GD hold tiền (không xử lý tranh chấp!)
-    *: Giao dịch mua bán acc vui lòng quay video trước khi nhận acc và quá trình đăng nhập!
-    **: (đối với VPS chỉ đảm bảo xác nhận thông tin ban đầu, không nhận đảm bảo trong quá trình sử dụng)
+Phụ phí xử lý GDTG sau 22h (trong trường hợp nhận xử lý): Tính theo mốc phí GDTG
 
-Alert: Hủy ngang kèo mất phí middleman
-Bank xong chụp bill gửi vào ticket/chat group chờ "Đã nhận", ✅
+Phí xử lý scam khi bằng chứng không rõ ràng: 100k/lần (để tránh mất phí nhảm vui lòng quay đầy đủ bằng chứng gủi/nhận hàng phòng trường hợp tranh chấp xảy ra!)
+
+Phí đổi tiền (áp dụng từ 21/03/2023):
+    - Dưới 500k: 3k
+    - Từ 500k đến 2m: 6k
+    - Từ 2m đến 6m: 10k
+    - Trên 6m: Thoả thuận
+
+Lưu ý: 
+- Hủy ngang kèo mất phí middleman
+- Bank xong chụp bill gửi vào ticket/chat group chờ "Đã nhận", ✅
