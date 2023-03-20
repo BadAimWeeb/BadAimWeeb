@@ -11,11 +11,18 @@ Tên: LY TON THANH NHAN
 
 Nhận all kèo trừ VPS, trade acc, trade fruit, chỉ giao dịch tiền mua bán.
 
-Phí (áp dụng từ 19/01/2023): Tính theo giá trị giao dịch
-    - Dưới 200k: 3k
-    - Từ 200k đến dưới 1m: 5k
-    - Từ 1m đến dưới 1m5: 10k
-    - Trên 1m5: 15k
+Phí GDTG (áp dụng từ 21/03/2023): Tính theo giá trị giao dịch
+    - Dưới 100k: 5k
+    - Từ 100k đến 1m: 10k
+    - Từ 1m đến 1m5: 15k
+    - Từ 1m5 đến 3m: 20k
+    - Từ 3m đến 6m: 25k
+    - Từ 6m đến 10m: 30k
+    - Trên 10m: 40k
+    
+Phụ phí xử lý GDTG sau 22h (trong trường hợp nhận xử lý): Tính theo mốc phí GDTG
+
+Phí xử lý scam khi bằng chứng không rõ ràng: 100k/lần (để tránh mất phí nhảm vui lòng quay đầy đủ bằng chứng gủi/nhận hàng phòng trường hợp tranh chấp xảy ra!)
 
 Lưu ý: Hủy ngang kèo mất phí gdtg
 Bank xong chụp bill gửi vào ticket/chat group chờ "Đã nhận", ✅
