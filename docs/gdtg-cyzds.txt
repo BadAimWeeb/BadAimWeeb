@@ -13,12 +13,9 @@ Nhận all kèo trừ VPS, trade acc, trade fruit, chỉ giao dịch tiền mua 
 
 Phí GDTG (áp dụng từ 21/03/2023): Tính theo giá trị giao dịch
     - Dưới 100k: 5k
-    - Từ 100k đến 1m: 10k
-    - Từ 1m đến 1m5: 15k
-    - Từ 1m5 đến 3m: 20k
-    - Từ 3m đến 6m: 25k
-    - Từ 6m đến 10m: 30k
-    - Trên 10m: 40k
+    - Từ 100k đến 1m5: 10k
+    - Từ 1m5 đến 10m: 20k
+    - Trên 10m: 30k
     
 Phụ phí xử lý GDTG sau 22h (trong trường hợp nhận xử lý): Tính theo mốc phí GDTG
 
