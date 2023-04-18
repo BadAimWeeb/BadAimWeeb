@@ -12,6 +12,7 @@ TK giao dịch:
     - TNEX/MSB: 88898017444245
     - CAKE: 0338083917
     - Sacombank: 060295739005
+    - VIB: 037822102
     - Viettel Money: 0862875949
     - TSR: badaimweeb
     - GT1s: badaimweeb
