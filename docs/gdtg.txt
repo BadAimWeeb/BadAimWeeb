@@ -1,5 +1,5 @@
 Facebook: https://fb.me/badaimweeb (100009708281975)
-Discord: BadAimWeeb#0727 (299105606642696193)
+Discord: badaimweeb (299105606642696193)
 
 TK giao dịch:
     - Momo: 0862875949
@@ -25,13 +25,20 @@ TK giao dịch đã đưa vào sử dụng cho mục đích khác (vui lòng kh�
 
 Tên: LE QUANG LAM
 
-Phí GDTG (áp dụng từ 21/03/2023): Tính theo giá trị giao dịch
+Phí GDTG tại Facebook (áp dụng từ 08/06/2023): Tính theo giá trị giao dịch
     - Dưới 100k: 5k
     - Từ 100k đến 1m5: 10k
     - Từ 1m5 đến 10m: 20k
     - Trên 10m: 30k
     
-Phụ phí xử lý GDTG sau 22h (trong trường hợp nhận xử lý): Tính theo mốc phí GDTG
+Phí GDTG tại Discord (áp dụng từ 08/06/2023): Tính theo giá trị giao dịch
+(phí ưu đãi áp dụng cho người tham gia và giao dịch tại server gateway: https://discord.gg/GQTb5DnTHe)
+    - Dưới 100k: 3k
+    - Từ 100k đến 1m: 6k
+    - Từ 1m đến 2m5: 15k
+    - Trên 2m5: 20k
+    
+Phụ phí xử lý GDTG sau 22h (trong trường hợp nhận xử lý): Tính theo mốc phí GDTG (tạm thời không áp dụng tại Discord)
 
 Phí xử lý scam khi bằng chứng không rõ ràng: 100k/lần (để tránh mất phí nhảm vui lòng quay đầy đủ bằng chứng gủi/nhận hàng phòng trường hợp tranh chấp xảy ra!)
 
