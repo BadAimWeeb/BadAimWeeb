@@ -41,7 +41,10 @@ Phí GDTG tại Discord (áp dụng từ 08/06/2023): Tính theo giá trị giao
     - Từ 1m đến 2m5: 15k
     - Trên 2m5: 20k
     
-Phụ phí xử lý GDTG sau 22h (trong trường hợp nhận xử lý): Tính theo mốc phí GDTG (tạm thời không áp dụng tại Discord)
+Phụ phí xử lý GDTG từ 10h-21h ICT/giờ VN (trong trường hợp nhận xử lý): 10k + Tính theo mốc phí GDTG
+    Vui lòng sử dụng 2 người còn lại để tránh phí này:
+    - https://badaimweeb.me/gdtg-cyzds.txt
+    - https://badaimweeb.me/gdtg-chino.txt
 
 Phí xử lý scam khi bằng chứng không rõ ràng: 100k/lần (để tránh mất phí nhảm vui lòng quay đầy đủ bằng chứng gủi/nhận hàng phòng trường hợp tranh chấp xảy ra!)
 
@@ -50,6 +53,8 @@ Phí đổi tiền (áp dụng từ 21/03/2023):
     - Từ 500k đến 2m: 6k
     - Từ 2m đến 6m: 10k
     - Trên 6m: Thoả thuận
+
+CÓ TUYẾN CHUYỂN TỪ NƯỚC NGOÀI VỀ VN VÀ NGƯỢC LẠI (không nhận cashapp).
 
 Lưu ý: 
 - Hủy ngang kèo mất phí middleman
