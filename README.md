@@ -10,6 +10,7 @@
     <ul>
       <li>The all-new version of C3CBot, based on NOCOM_BOT. Has support for Facebook/Discord (slash command included)/Telegram and many more to come. <a href="https://github.com/c3cbot/c3cbot">Repository</a> (⚠️ BETA software ⚠️)</li>
     </ul>
+    <li>(FCA) XFRelay, an all-new approach to Facebook Messenger self-botting API. Split into 3 parts: <a href="https://github.com/BadAimWeeb/xfrelay">Injector</a>, <a href="https://github.com/BadAimWeeb/xfrelay_server">Relay server</a> and FCA (coming soon™️)</li>
     <!--<li>DUWallet - the universal wallet, supporting a lot of cryptocurrency. <a href="https://github.com/BadAimWeeb/duwallet">Repository</a> (⚠️ EXPERIMENTAL ⚠️)</li>-->
     <!--<li>Managing IPFS/BitTorrent files on the server. <a href="https://github.com/BadAimWeeb/file-sharing-manager">Repository</a> (temporary dead)</li>-->
     <!--<li>Transcode videos using multiple worker clients. <a href="https://github.com/BadAimWeeb/distributed-transcoding-server">Server</a> | <a href="https://github.com/BadAimWeeb/distributed-transcoding-client">Client</a></li>
