@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAW-TX</title>
+    <style>
+        :root {
+            --text-color: #000;
+            --bg-color: #fff;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --text-color: #fff;
+                --bg-color: #000;
+            }
+        }
+
+        body {
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 16px;
+            padding: 0;
+        }
+
+        .container {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 16px;
+        }
+
+        .container h1 {
+            font-size: 20px;
+        }
+
+        .container h2 {
+            font-size: 18px;
+        }
+
+        .container ul li {
+            padding-top: 4px;
+            padding-bottom: 4px;
+        }
+
+        .display-lang-en,
+        .display-lang-vi,
+        .display-lang-ja {
+            display: none;
+        }
+
+        .container a {
+            color: var(--text-color);
+        }
+
+        .container .lang-selector a {
+            padding: 4px;
+        }
+    </style>
+    <script>
+        // Language detection (temporary solution, will be replaced with a proper library in the future)
+        const supportedLangs = ['en', 'vi', 'ja'];
+        let lang = localStorage.getItem("BAW:LANG") || navigator.language || navigator.userLanguage;
+
+        function setLang(newLang) {
+            lang = newLang;
+            localStorage.setItem("BAW:LANG", lang);
+        }
+
+        // If language is not supported, try generic (non-region specific) language
+        if (!supportedLangs.includes(lang)) {
+            lang = lang.split('-')[0];
+        }
+
+        // If language is still not supported, fallback to English
+        if (!supportedLangs.includes(lang)) {
+            lang = 'en';
+        }
+
+        function updateLangDisplay() {
+            for (let lang of supportedLangs) {
+                document.querySelectorAll(`.display-lang-${lang}`).forEach((el) => {
+                    el.style.display = 'none';
+                });
+            }
+
+            document.querySelectorAll(`.display-lang-${lang}`).forEach((el) => {
+                el.style.display = 'block';
+            });
+
+            // Update language selector
+            for (let lang of supportedLangs) {
+                document.getElementById(`lang-selector-${lang}`).style.textDecoration = 'underline';
+            }
+
+            document.getElementById(`lang-selector-${lang}`).style.textDecoration = 'none';
+        }
+
+        addEventListener("load", () => updateLangDisplay());
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Language selector -->
+        <div class="lang-selector">
+            <a href="#" onclick="setLang('en'); updateLangDisplay(); return false;" id="lang-selector-en">en</a>
+            <a href="#" onclick="setLang('vi'); updateLangDisplay(); return false;" id="lang-selector-vi">vi</a>
+            <a href="#" onclick="setLang('ja'); updateLangDisplay(); return false;" id="lang-selector-ja">ja</a>
+        </div>
+
+        <!-- Title -->
+        <h1>BAW-TX - BadAimWeeb's Team X</h1>
+
+        <!-- Description -->
+        <div>
+            <div class="display-lang-en">
+                BAW-TX is a software developer team, building random things for fun and profit :D
+            </div>
+            <div class="display-lang-vi">
+                BAW-TX là một nhóm coder, xây dựng những thứ ngẫu nhiên cho vui và kiếm (một ít) lợi nhuận :D
+            </div>
+            <div class="display-lang-ja">
+                BAW-TX はソフトウェア開発チームで、楽しみと利益のためにランダムなものを構築しています :D
+            </div>
+        </div>
+
+        <!-- Members -->
+        <div>
+            <h2>Members</h2>
+            <div>
+                <ul>
+                    <div class="display-lang-en">
+                        <li>BadAimWeeb (lead) (Tier 1)</li>
+                    </div>
+                    <div class="display-lang-vi">
+                        <li>BadAimWeeb (lead) (Tier 1)</li>
+                    </div>
+                    <div class="display-lang-ja">
+                        <li>BadAimWeeb (リーダー) (Tier 1)</li>
+                    </div>
+
+                    <li>michioxd (Tier 1)</li>
+
+                    <div class="display-lang-en">
+                        <li>AmayaKuro (probationary) (Tier 2)</li>
+                    </div>
+                    <div class="display-lang-vi">
+                        <li>AmayaKuro (học việc) (Tier 2)</li>
+                    </div>
+                    <div class="display-lang-ja">
+                        <li>AmayaKuro (見習い) (Tier 2)</li>
+                    </div>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Contact -->
+        <div>
+            <h2>Contact</h2>
+            <div>
+                <div class="display-lang-en">
+                    We primary uses Discord for communication, you can join our server <a href="https://discord.gg/Fd7CYTe6Jt">here</a>.
+                </div>
+                <div class="display-lang-vi">
+                    Team chủ yếu sử dụng Discord để liên lạc, bạn có thể tham gia server <a href="https://discord.gg/Fd7CYTe6Jt">tại đây</a>.
+                </div>
+                <div class="display-lang-ja">
+                    チームは主にDiscordを使用してコミュニケーションを取ります、サーバーに参加することができます<a href="https://discord.gg/Fd7CYTe6Jt">こちら</a>。
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
