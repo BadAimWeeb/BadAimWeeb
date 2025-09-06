@@ -1,1 +1,0 @@
-System.register(["./index-legacy-EXUlUz6H.js"],function(e,r){"use strict";var t,c,n,a,s,i;return{setters:[e=>{t=e.c,c=e.j,n=e.r,a=e.P,s=e.R,i=e.A}],execute:function(){t.createRoot(document.getElementById("root")).render(c.jsx(n.StrictMode,{children:c.jsx(a,{children:c.jsx(s,{appearance:"dark",accentColor:"teal",radius:"large",children:c.jsx(i,{type:"main"})})})}))}}});
